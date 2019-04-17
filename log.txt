@@ -1,4 +1,0 @@
-{"update_id":521982038,
-"message":{"message_id":7,"from":{"id":323989110,"is_bot":false,"first_name":"Slavique","username":"Slavique_b","language_code":"en"},"chat":{"id":323989110,"first_name":"Slavique","username":"Slavique_b","type":"private"},"date":1555265206,"text":"eree"}}{"update_id":521982039,
-"message":{"message_id":8,"from":{"id":323989110,"is_bot":false,"first_name":"Slavique","username":"Slavique_b","language_code":"en"},"chat":{"id":323989110,"first_name":"Slavique","username":"Slavique_b","type":"private"},"date":1555265503,"text":"scf"}}{"update_id":521982040,
-"message":{"message_id":9,"from":{"id":323989110,"is_bot":false,"first_name":"Slavique","username":"Slavique_b","language_code":"en"},"chat":{"id":323989110,"first_name":"Slavique","username":"Slavique_b","type":"private"},"date":1555265511,"text":"v"}}
