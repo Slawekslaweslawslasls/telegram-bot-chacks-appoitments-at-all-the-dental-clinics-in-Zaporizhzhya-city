@@ -36,7 +36,7 @@ function domTreeHandler($xpathquery, $url_parse){
 		if(!empty($xpathquery)){
 		foreach ($elements as $value) {
 			//$nodes_inline_keyboard[]= array(['text'=>preg_replace("/[\n\r\t]/", "", $value->nodeValue),'callback_data'=>'/help']); 
-			$nodes_inline_keyboard[]= preg_replace("/[\n\r\t]/", "", $value->nodeValue); 
+			$nodes_inline_keyboard[]= ' '.preg_replace("/[\n\r\t]/", "", $value->nodeValue).' '; 
 			//var_dump($value->nodeName);
 			
 			}	
